@@ -1,16 +1,6 @@
-# quick_actions_demo
+# Quick Actions Demo
+- This demo application allows you to manage and interact with the application's home screen with quick actions.
+- Go back to the home screen (for iOS) or app launcher (for Android) & hold down this app's icon to see the available quick actions.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Preview
+![alt text](https://i.postimg.cc/NFYzw6D1/imgonline-com-ua-twotoone-l-DGX7-XBap-GSHGDX.png "img")
