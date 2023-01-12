@@ -2,12 +2,12 @@ import "dart:developer";
 
 import "package:flutter/material.dart";
 import "package:quick_actions/quick_actions.dart";
+import "package:quick_actions_demo/extension/string_extension.dart";
 import "package:quick_actions_demo/screens/event_screen.dart";
 import "package:quick_actions_demo/screens/explore_screen.dart";
 import "package:quick_actions_demo/screens/profile_screen.dart";
 import "package:quick_actions_demo/screens/shop_screen.dart";
 import "package:quick_actions_demo/singletons/navigation_singleton.dart";
-import "package:quick_actions_demo/string_extension.dart";
 
 enum QuickActionsType { profile, event, shop, explore }
 
