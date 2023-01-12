@@ -1,0 +1,23 @@
+name: quick_actions_demo
+version: 1.0.0+1
+publish_to: none
+description: A new Flutter project.
+
+environment:
+  sdk: '>=2.18.4 <3.0.0'
+
+dependencies:
+  after_layout: ^1.2.0
+  flutter:
+    sdk: flutter
+  quick_actions: ^1.0.1
+
+dev_dependencies:
+  flutter_lints: ^2.0.0
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
